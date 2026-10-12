@@ -1,0 +1,10 @@
+google-genai==2.18.0
+unstructured[pdf]==0.18.32
+opensearch-py==3.2.0
+tiktoken==0.14.0
+gradio==6.30.0
+python-dotenv==1.2.2
+requests==2.34.2
+pillow==12.3.0
+# Optional: cross-encoder reranker. Pulls in PyTorch; the app runs without it.
+sentence-transformers==6.1.0
